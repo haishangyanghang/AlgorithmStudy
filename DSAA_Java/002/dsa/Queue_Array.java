@@ -63,7 +63,7 @@ public class Queue_Array implements Queue{
 	//遍历，不属于ADT
 	public void Traversal(){
 		for(int i=f;i<r;i++)
-			System.out.print(Q[i] + "");
+			System.out.print(Q[i] + " ");
 		System.out.println();
 	}
 }
